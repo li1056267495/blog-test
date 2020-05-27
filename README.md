@@ -12,7 +12,7 @@
 * 还是上学
 
 代码
-```
+```javascript
 var a = 1
 console.log(a)
 ```
